@@ -1,0 +1,28 @@
+/* Basics colors */
+
+/* Color Theme Swatches in Hex */
+@property --color-1 {
+	syntax: '<color>';
+	inherits: false;
+	initial-value: #025159;
+}
+@property --color-2 {
+	syntax: '<color>';
+	inherits: false;
+	initial-value: #04bfbf;
+}
+@property --color-3 {
+	syntax: '<color>';
+	inherits: false;
+	initial-value: #038c8c;
+}
+@property --color-5 {
+	syntax: '<color>';
+	inherits: false;
+	initial-value: #bf9a78;
+}
+@property --color-6 {
+	syntax: '<color>';
+	inherits: false;
+	initial-value: #8c452b;
+}
